@@ -3,6 +3,7 @@
 - Update `weather.csv` and `seattle-weather.csv` with better encoded weather condition, indicating more rain.
 - Remove `graticule.json`.
 - Add `football.json`.
+- Update co2-concentration data and add adjusted CO2.
 
 ### Version 1.30
 
